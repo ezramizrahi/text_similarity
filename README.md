@@ -19,6 +19,8 @@
 
 A React application that takes two sets of text and returns the words shared by both sets. A practical example of intersection - [read more here https://en.wikipedia.org/wiki/Intersection_(set_theory)](https://en.wikipedia.org/wiki/Intersection_(set_theory)).
 
+[You can try the application by clicking here.](https://text-match.netlify.app/)
+
 ### Built With
 
 * [React](https://reactjs.org/)
