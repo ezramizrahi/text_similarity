@@ -17,7 +17,7 @@
 
 ## About
 
-A React application that takes two sets of text and returns the words shared by both sets. A practical example of [intersection - read more here https://en.wikipedia.org/wiki/Intersection_(set_theory)](https://en.wikipedia.org/wiki/Intersection_(set_theory)).
+A React application that takes two sets of text and returns the words shared by both sets. A practical example of intersection - [read more here https://en.wikipedia.org/wiki/Intersection_(set_theory)](https://en.wikipedia.org/wiki/Intersection_(set_theory)).
 
 ### Built With
 
