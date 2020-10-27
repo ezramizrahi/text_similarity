@@ -31,8 +31,6 @@ function App() {
   let setTwo = new Set();
   textArrayOne?.forEach(t => setOne.add(t));
   textArrayTwo?.forEach(t => setTwo.add(t));
-  let setOneSize = setOne.size;
-  let setTwoSize = setTwo.size;
   let intersection = new Set([...setOne].filter(x => setTwo.has(x)))
 
   return (
