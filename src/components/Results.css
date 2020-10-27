@@ -1,0 +1,11 @@
+.results {
+  padding-top: 10px;
+  display: flex;
+  justify-content: center;
+  flex-flow: row;
+}
+
+.text {
+  font-weight: bold;
+  padding-right: 5px;
+}
