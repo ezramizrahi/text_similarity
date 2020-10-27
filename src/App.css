@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+
+.text-input--group {
+  display: flex;
+  margin: 0 auto;
+  justify-content: center;
+  flex-direction: row;
+}
